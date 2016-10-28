@@ -1,3 +1,13 @@
+/*Brendans Custom*/
+#primary > div > div.wc-products > ul > li.product-category.product.last > a:nth-child(2) > img{
+	height:194px;
+}
+#primary > div > div.wc-products > ul > li:nth-child(2) > a:nth-child(2) > img{
+	height:194px;
+}
+#primary > div > div.wc-products > ul > li:nth-child(1) > a:nth-child(2) > img{
+	height:194px;
+}
 /*
 Theme Name: AccessPress Store
 Theme URI: https://accesspressthemes.com/wordpress-themes/accesspress-store/
